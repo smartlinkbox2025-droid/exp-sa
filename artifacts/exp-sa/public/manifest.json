@@ -1,0 +1,26 @@
+{
+  "name": "Exp-SA حاسبة الاستيراد السعودية",
+  "short_name": "Exp-SA",
+  "description": "برنامج لحساب تكاليف الاستيراد من الصين إلى المملكة العربية السعودية",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

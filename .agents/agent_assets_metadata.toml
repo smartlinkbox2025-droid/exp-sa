@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "lI7nzghvGH8NhEwu2J9Pp"
+uri = "file://artifacts/exp-sa/public/icon-source.png"
+type = "image"
+title = "green calculator app icon"
